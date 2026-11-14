@@ -5,19 +5,18 @@ on:
     - cron: "0 3 * * *"   # todo dia às 03:00 UTC
   workflow_dispatch:       # permite rodar manualmente
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Gerar cards do perfil
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEMES: "github_dark,github"
+          UTC_OFFSET: -3   # horário de Brasília
