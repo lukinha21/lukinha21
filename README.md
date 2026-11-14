@@ -1,17 +1,26 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=240&section=header&text=Lucas%20Silva&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20-%20Back-end%20-%20Cloud%20-%20IA%20e%20Agentes&descAlignY=58&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=58A6FF&center=true&vCenter=true&width=760&lines=Bacharel+em+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+Formando+em+2026;Sistemas+completos%3A+do+banco+de+dados+ao+deploy;Arquitetura+de+APIs%2C+SaaS+e+sistemas+multiagente;Aberto+a+oportunidades+%F0%9F%9A%80" alt="Typing SVG" /> </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=240&section=header&text=Lucas%20Silva&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20-%20Back-end%20-%20Cloud%20-%20IA%20e%20Agentes&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=58A6FF&center=true&vCenter=true&width=760&lines=Bacharel+em+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+Formando+em+2026;Sistemas+completos%3A+do+banco+de+dados+ao+deploy;Arquitetura+de+APIs%2C+SaaS+e+sistemas+multiagente;Aberto+a+oportunidades+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-LinkedIn Instagram Mostrar imagem
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-025583180/)
+[![Instagram](https://img.shields.io/badge/Instagram-@luczslv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luczslv/)
+![Status](https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL%20PARA%20NOVOS%20DESAFIOS-2ea043?style=for-the-badge)
 
 </div>
+
 ---
 
 ## 🧭 Sobre
 
-Sou desenvolvedor **Full Stack** e me formo em dezembro de 2026. Em paralelo à faculdade, construí **dezenas de projetos**, entre eles **SaaS e sistemas completos de ponta a ponta**: modelagem de dados, back-end, interface e entrega.
+Sou desenvolvedor Full Stack e me formo em dezembro de 2026. Em paralelo à faculdade, construí dezenas de projetos, entre eles SaaS e sistemas completos de ponta a ponta: modelagem de dados, back-end, interface e entrega.
 
-Trabalho de forma **autônoma** desde antes da graduação, atendendo clientes reais. Isso me ensinou a lidar com prazo, a entender o problema do cliente antes de escrever código e a **entregar o que foi combinado**.
+Trabalho de forma autônoma desde antes da graduação, atendendo clientes reais. Isso me ensinou a lidar com prazo, a entender o problema do cliente antes de escrever código e a entregar o que foi combinado.
 
 > 🎯 **O que procuro:** uma oportunidade em desenvolvimento de software (back-end, full stack, cloud ou IA) em um time onde eu possa entregar valor desde o primeiro dia e crescer rápido.
 
@@ -30,7 +39,7 @@ Trabalho de forma **autônoma** desde antes da graduação, atendendo clientes r
 <tr>
 <td width="25%" align="center"><h3>🗂️ 90+</h3>repositórios entre projetos pessoais e acadêmicos</td>
 <td width="25%" align="center"><h3>🧩 SaaS</h3>sistemas completos, do banco ao front</td>
-<td width="25%" align="center"><h3>🤖 Agentes</h3>sistema multiagente em desenvolvimento</td>
+<td width="25%" align="center"><h3>🤖 Ophiuchus</h3>fábrica de software com agentes de IA</td>
 <td width="25%" align="center"><h3>🎓 100%</h3>da grade de SI concluída</td>
 </tr>
 </table>
@@ -89,17 +98,54 @@ Trabalho de forma **autônoma** desde antes da graduação, atendendo clientes r
 
 ## 🚀 Projetos em destaque
 
-### 🤖 Sistema multiagente · *em desenvolvimento*
+### 🐍 Ophiuchus · Agentic Engineering Workspace
 
-Plataforma em que **vários agentes de IA trabalham de forma síncrona no mesmo projeto, cada um com uma função específica**, coordenados para dividir, executar e revisar tarefas.
+> **Fábrica de software com agentes de IA.** Um console de engenharia para **orquestração visual**, **rastreamento determinístico de estado** e **validação com humano no controle** (human-in-the-loop).
 
-- Arquitetura de **orquestração**, com papéis definidos por agente
-- Comunicação e sincronização entre agentes
-- Foco em **automação de fluxos de desenvolvimento**
+[![Repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukinha21/Ophiuchus_Agentic_engineering_workspace)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-👉 **[Ver repositório]([https://github.com/lukinha21](https://github.com/lukinha21/Ophiuchus_Agentic_engineering_workspace))** <!-- TROQUE pelo link do repositório do sistema de agentes -->
+Vários agentes de IA, cada um com uma função, trabalham em sequência sobre o mesmo projeto: **planejam, desenham a arquitetura, implementam, revisam e testam**. Um orquestrador controla o fluxo, e os checkpoints exigem aprovação humana antes de qualquer alteração.
 
----
+```mermaid
+flowchart LR
+    U([Pedido do usuário]) --> O{Orquestrador}
+    O --> P[Plano]
+    P --> A[Arquitetura]
+    A --> I[Implementação]
+    I --> R[Revisão independente]
+    R --> Q[QA em Docker]
+    Q -->|aprovado| H([Aprovação humana])
+    Q -.->|falha de código| I
+    R -.->|reprovado| I
+    Q -.->|falha de requisito| P
+    H --> D[Documentação e entrega]
+```
+
+**O que eu construí**
+
+| Camada | Detalhes |
+|:--|:--|
+| 🧠 **Runtime de orquestração** | Máquina de estados independente do React, com snapshot imutável da configuração, *handoffs* entre agentes, dois checkpoints humanos e retorno da falha ao agente responsável (código, requisitos ou arquitetura). Limites de correção por etapa e por execução, com bloqueio e intervenção humana |
+| 🔌 **Multiprovedor de IA** | Registry de provedores e modelos: **OpenAI, Anthropic (Claude), Google Gemini, OpenRouter**, endpoints compatíveis com OpenAI e um provedor Mock offline para testes sem custo |
+| 🔐 **Segurança de credenciais** | Cofre local criptografado com **AES-256-GCM** e derivação de chave **scrypt**. As chaves nunca voltam para o navegador. Também implementei **OAuth PKCE** (OpenRouter) com validação de *state* |
+| 🧪 **Sandbox de testes** | Execução em **Docker** sem rede, com sistema de arquivos somente leitura, usuário sem privilégios e limites de CPU, memória e tempo. Suporta **Node, Java, Go, Python, Rust, C# e COBOL** |
+| 🗂️ **Edição supervisionada de projetos locais** | Navegação na pasta do projeto, diffs, snapshots e **desfazer**. Aprovação **por arquivo** com verificação de hash antes de gravar, e proteção contra *path traversal*, links simbólicos e arquivos sensíveis |
+| 🧬 **Equipe de seis agentes** | Plano, arquitetura, proposta isolada, revisão independente, QA estático e documentação, com limite de chamadas autorizadas por fluxo |
+| 📉 **Economia de contexto** | Compactação determinística do histórico, limites de tokens e saída, contagem de tokens reportada pelo provedor e continuação de respostas truncadas |
+| 📊 **Observabilidade** | Dashboard com métricas reais das execuções, eventos em tempo real, rastreabilidade por subtarefa e cancelamento seguro |
+
+**Decisões de engenharia que mais me orgulho**
+
+- ✅ **Evidência real separada de alegação do modelo.** Uma entrega só é marcada como verificada quando o teste em Docker passa. O "está tudo certo" escrito pela IA não conta como prova.
+- ✅ **Falha explícita em vez de sucesso falso.** Resposta truncada, JSON inválido, Docker indisponível ou arquivo ausente pausam o fluxo e mostram o motivo.
+- ✅ **Humano sempre no controle.** Leitura, envio ao provedor, gravação e execução de testes têm autorizações separadas.
+- ✅ **Mais de 150 testes automatizados** no runtime, usando provedores simulados para não gastar tokens.
+- ✅ **Evolução documentada em dezenas de versões** (de 0.8 até 2.7), cada uma com limites e validação descritos com transparência.
 
 ### 🧱 Projetos de engenharia de software
 
@@ -125,7 +171,8 @@ Plataforma em que **vários agentes de IA trabalham de forma síncrona no mesmo 
 | 🏗️ **Arquitetura** | Estruturação em camadas, separação de responsabilidades, APIs REST, modelagem de domínio |
 | 🗄️ **Dados** | Modelagem relacional e não relacional, consultas SQL, normalização, integridade |
 | ☁️ **Cloud** | Serviços gerenciados na Oracle Cloud (OCI), incluindo filas com produtor e consumidor |
-| 🤖 **IA aplicada** | Integração com LLMs, engenharia de prompts, agentes e automação de fluxos |
+| 🤖 **IA aplicada** | Orquestração de agentes, integração com múltiplos provedores de LLM (OpenAI, Claude, Gemini), engenharia de prompts, controle de custo e contexto |
+| 🔐 **Segurança** | Criptografia de credenciais (AES-256-GCM), OAuth PKCE, sandbox em Docker, proteção contra *path traversal* |
 | 🧪 **Qualidade** | Versionamento com Git, organização de código, depuração e resolução de problemas |
 | 🌐 **Redes e SO** | Fundamentos de redes, sistemas operacionais e segurança (Linux e Windows) |
 | 🧠 **Fundamentos** | Estruturas de dados, algoritmos, lógica, engenharia de software e gestão de projetos |
@@ -149,6 +196,8 @@ Plataforma em que **vários agentes de IA trabalham de forma síncrona no mesmo 
 Grade completa, com ênfase em:
 
 `Estruturas de Dados I e II` · `Pesquisa e Ordenação` · `Banco de Dados I e II` · `Engenharia de Software I, II e III` · `Redes de Computadores I e II` · `Sistemas Operacionais I e II` · `Linguagens de Programação I e II` · `Inteligência Artificial` · `Programação para Dispositivos Móveis` · `Segurança e Auditoria de Sistemas` · `Governança de TI` · `Gestão de Projetos` · `Pesquisa Operacional` · `Ciência de Dados`
+
+📌 240h de atividades complementares · Estágio Supervisionado I e II
 
 ---
 
