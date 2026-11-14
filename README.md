@@ -1,19 +1,10 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:1f6feb&height=240&section=header&text=Lucas%20Silva&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20Back-end%20%C2%B7%20Cloud%20%C2%B7%20IA%20%26%20Agentes&descAlignY=62&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=58A6FF&center=true&vCenter=true&width=760&lines=Bacharel+em+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+Formando+em+2026;Sistemas+completos%3A+do+banco+de+dados+ao+deploy;Arquitetura+de+APIs%2C+SaaS+e+sistemas+multiagente;Aberto+a+oportunidades+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=240&section=header&text=Lucas%20Silva&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20-%20Back-end%20-%20Cloud%20-%20IA%20e%20Agentes&descAlignY=58&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=58A6FF&center=true&vCenter=true&width=760&lines=Bacharel+em+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+Formando+em+2026;Sistemas+completos%3A+do+banco+de+dados+ao+deploy;Arquitetura+de+APIs%2C+SaaS+e+sistemas+multiagente;Aberto+a+oportunidades+%F0%9F%9A%80" alt="Typing SVG" /> </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-025583180/)
-[![Instagram](https://img.shields.io/badge/Instagram-@luczslv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luczslv/)
-![Status](https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL%20PARA%20NOVOS%20DESAFIOS-2ea043?style=for-the-badge)
+LinkedIn Instagram Mostrar imagem
 
 </div>
-
 ---
 
 ## 🧭 Sobre
