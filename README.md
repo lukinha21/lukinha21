@@ -18,9 +18,9 @@
 
 ## 🧭 Sobre
 
-Sou desenvolvedor Full Stack e me formo em dezembro de 2026. Em paralelo à faculdade, construí dezenas de projetos, entre eles SaaS e sistemas completos de ponta a ponta: modelagem de dados, back-end, interface e entrega.
+Sou desenvolvedor Full Stack e me formei em dezembro de 2026. Em paralelo à faculdade, construí propostas de projetos, entre eles SaaS e sistemas completos de ponta a ponta: modelagem de dados, back-end, interface e entrega.
 
-Trabalho de forma autônoma desde antes da graduação, atendendo clientes reais. Isso me ensinou a lidar com prazo, a entender o problema do cliente antes de escrever código e a entregar o que foi combinado.
+Trabalho de forma autônoma desde antes da graduação, atendendo clientes reais. Isso me ensinou a lidar com o prazo, a entender o problema do cliente antes de escrever o código e entregar o que foi combinado.
 
 > 🎯 **O que procuro:** uma oportunidade em desenvolvimento de software (back-end, full stack, cloud ou IA) em um time onde eu possa entregar valor desde o primeiro dia e crescer rápido.
 
@@ -37,7 +37,7 @@ Trabalho de forma autônoma desde antes da graduação, atendendo clientes reais
 
 <table>
 <tr>
-<td width="25%" align="center"><h3>🗂️ 90+</h3>repositórios entre projetos pessoais e acadêmicos</td>
+<td width="25%" align="center"><h3>🗂️ 16</h3>repositórios públicos, entre projetos pessoais e acadêmicos</td>
 <td width="25%" align="center"><h3>🧩 SaaS</h3>sistemas completos, do banco ao front</td>
 <td width="25%" align="center"><h3>🤖 Ophiuchus</h3>fábrica de software com agentes de IA</td>
 <td width="25%" align="center"><h3>🎓 100%</h3>da grade de SI concluída</td>
@@ -201,14 +201,23 @@ Grade completa, com ênfase em:
 
 ---
 
-## 📊 GitHub
+## 📊 Métricas do GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lukinha21&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinha21&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117" />
+<img height="190" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas" />
+<img height="190" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositórios por linguagem" />
 
-<img src="https://streak-stats.demolab.com?user=lukinha21&theme=github-dark-blue&hide_border=true" />
+<img height="190" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" />
+<img height="190" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horário mais produtivo" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukinha21/lukinha21/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukinha21/lukinha21/output/github-contribution-grid-snake.svg" />
+  <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/lukinha21/lukinha21/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
