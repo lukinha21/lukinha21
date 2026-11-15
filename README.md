@@ -22,16 +22,6 @@ Sou desenvolvedor Full Stack e me formei em dezembro de 2026. Em paralelo à fac
 
 Trabalho de forma autônoma desde antes da graduação, atendendo clientes reais. Isso me ensinou a lidar com o prazo, a entender o problema do cliente antes de escrever o código e entregar o que foi combinado.
 
-> 🎯 **O que procuro:** uma oportunidade em desenvolvimento de software (back-end, full stack, cloud ou IA) em um time onde eu possa entregar valor desde o primeiro dia e crescer rápido.
-
-```text
- Perfil     →  Aprendizado rápido, autonomia e foco em resultado
- Entrega    →  Sistemas funcionando, não só protótipos
- Visão      →  Código limpo + arquitetura + negócio
- Formação   →  Grade de Sistemas de Informação 100% concluída
-```
-
----
 
 ## ⚡ Destaques
 
@@ -40,7 +30,6 @@ Trabalho de forma autônoma desde antes da graduação, atendendo clientes reais
 <td width="25%" align="center"><h3>🗂️ 16</h3>repositórios públicos, entre projetos pessoais e acadêmicos</td>
 <td width="25%" align="center"><h3>🧩 SaaS</h3>sistemas completos, do banco ao front</td>
 <td width="25%" align="center"><h3>🤖 Ophiuchus</h3>fábrica de software com agentes de IA</td>
-<td width="25%" align="center"><h3>🎓 100%</h3>da grade de SI concluída</td>
 </tr>
 </table>
 
@@ -126,27 +115,6 @@ flowchart LR
     H --> D[Documentação e entrega]
 ```
 
-**O que eu construí**
-
-| Camada | Detalhes |
-|:--|:--|
-| 🧠 **Runtime de orquestração** | Máquina de estados independente do React, com snapshot imutável da configuração, *handoffs* entre agentes, dois checkpoints humanos e retorno da falha ao agente responsável (código, requisitos ou arquitetura). Limites de correção por etapa e por execução, com bloqueio e intervenção humana |
-| 🔌 **Multiprovedor de IA** | Registry de provedores e modelos: **OpenAI, Anthropic (Claude), Google Gemini, OpenRouter**, endpoints compatíveis com OpenAI e um provedor Mock offline para testes sem custo |
-| 🔐 **Segurança de credenciais** | Cofre local criptografado com **AES-256-GCM** e derivação de chave **scrypt**. As chaves nunca voltam para o navegador. Também implementei **OAuth PKCE** (OpenRouter) com validação de *state* |
-| 🧪 **Sandbox de testes** | Execução em **Docker** sem rede, com sistema de arquivos somente leitura, usuário sem privilégios e limites de CPU, memória e tempo. Suporta **Node, Java, Go, Python, Rust, C# e COBOL** |
-| 🗂️ **Edição supervisionada de projetos locais** | Navegação na pasta do projeto, diffs, snapshots e **desfazer**. Aprovação **por arquivo** com verificação de hash antes de gravar, e proteção contra *path traversal*, links simbólicos e arquivos sensíveis |
-| 🧬 **Equipe de seis agentes** | Plano, arquitetura, proposta isolada, revisão independente, QA estático e documentação, com limite de chamadas autorizadas por fluxo |
-| 📉 **Economia de contexto** | Compactação determinística do histórico, limites de tokens e saída, contagem de tokens reportada pelo provedor e continuação de respostas truncadas |
-| 📊 **Observabilidade** | Dashboard com métricas reais das execuções, eventos em tempo real, rastreabilidade por subtarefa e cancelamento seguro |
-
-**Decisões de engenharia que mais me orgulho**
-
-- ✅ **Evidência real separada de alegação do modelo.** Uma entrega só é marcada como verificada quando o teste em Docker passa. O "está tudo certo" escrito pela IA não conta como prova.
-- ✅ **Falha explícita em vez de sucesso falso.** Resposta truncada, JSON inválido, Docker indisponível ou arquivo ausente pausam o fluxo e mostram o motivo.
-- ✅ **Humano sempre no controle.** Leitura, envio ao provedor, gravação e execução de testes têm autorizações separadas.
-- ✅ **Mais de 150 testes automatizados** no runtime, usando provedores simulados para não gastar tokens.
-- ✅ **Evolução documentada em dezenas de versões** (de 0.8 até 2.7), cada uma com limites e validação descritos com transparência.
-
 ### 🧱 Projetos de engenharia de software
 
 | Projeto | O que demonstra | Stack |
@@ -157,47 +125,6 @@ flowchart LR
 | [📊 **ordenacao-po**](https://github.com/lukinha21/ordenacao-po) | Algoritmos de pesquisa e ordenação, análise de desempenho | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
 | [🎞️ **PO_animacao**](https://github.com/lukinha21/PO_animacao) | Visualização de algoritmos e programação orientada a objetos | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
 | [🍻 **Calculadora_de_Buteco**](https://github.com/lukinha21/Calculadora_de_Buteco) | Lógica de negócio aplicada com interface web | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-
-<!-- ADICIONE aqui seus SaaS mais fortes, com 1 linha dizendo o problema que resolvem -->
-
-📂 **[Ver todos os repositórios →](https://github.com/lukinha21?tab=repositories)**
-
----
-
-## 💡 Competências de engenharia
-
-| Área | O que eu faço |
-|:--|:--|
-| 🏗️ **Arquitetura** | Estruturação em camadas, separação de responsabilidades, APIs REST, modelagem de domínio |
-| 🗄️ **Dados** | Modelagem relacional e não relacional, consultas SQL, normalização, integridade |
-| ☁️ **Cloud** | Serviços gerenciados na Oracle Cloud (OCI), incluindo filas com produtor e consumidor |
-| 🤖 **IA aplicada** | Orquestração de agentes, integração com múltiplos provedores de LLM (OpenAI, Claude, Gemini), engenharia de prompts, controle de custo e contexto |
-| 🔐 **Segurança** | Criptografia de credenciais (AES-256-GCM), OAuth PKCE, sandbox em Docker, proteção contra *path traversal* |
-| 🧪 **Qualidade** | Versionamento com Git, organização de código, depuração e resolução de problemas |
-| 🌐 **Redes e SO** | Fundamentos de redes, sistemas operacionais e segurança (Linux e Windows) |
-| 🧠 **Fundamentos** | Estruturas de dados, algoritmos, lógica, engenharia de software e gestão de projetos |
-
----
-
-## 💼 Experiência
-
-### Desenvolvedor e Consultor de TI · *Autônomo*
-
-- Desenvolvimento de **sistemas sob demanda**, do levantamento de requisitos à entrega
-- Atendimento direto a clientes, com **diagnóstico, suporte e solução de problemas** de infraestrutura e software
-- Gestão do próprio negócio: **captação de clientes, prazos, comunicação e qualidade da entrega**
-
----
-
-## 🎓 Formação
-
-**Bacharelado em Sistemas de Informação · Unoeste** · *Conclusão em 2026*
-
-Grade completa, com ênfase em:
-
-`Estruturas de Dados I e II` · `Pesquisa e Ordenação` · `Banco de Dados I e II` · `Engenharia de Software I, II e III` · `Redes de Computadores I e II` · `Sistemas Operacionais I e II` · `Linguagens de Programação I e II` · `Inteligência Artificial` · `Programação para Dispositivos Móveis` · `Segurança e Auditoria de Sistemas` · `Governança de TI` · `Gestão de Projetos` · `Pesquisa Operacional` · `Ciência de Dados`
-
-📌 240h de atividades complementares · Estágio Supervisionado I e II
 
 ---
 
@@ -220,12 +147,6 @@ Grade completa, com ênfase em:
 </picture>
 
 </div>
-
----
-
-## 🤝 Vamos conversar?
-
-Estou **aberto a oportunidades** de desenvolvimento, em modelo presencial, híbrido ou remoto. Se você busca alguém que aprende rápido, tem autonomia e gosta de construir coisas que funcionam, vamos conversar.
 
 <div align="center">
 
