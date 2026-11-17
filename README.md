@@ -18,6 +18,7 @@ Estou em busca de uma vaga **júnior**, remota ou presencial na região de **Pre
 ## 💼 Experiência
 
 - **Estagiário de Desenvolvimento Full Stack** · JDN Informática · jun/2025 – jul/2026
+- **Desenvolvedor Freelancer (Autônomo)** · lojas Shopify, análise de dados e funis de conversão · jun/2024 – dez/2024
 
 ## 🛠️ Tecnologias
 
